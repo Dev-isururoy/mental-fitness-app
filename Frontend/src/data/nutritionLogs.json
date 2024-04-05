@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "date": "2024-03-25",
+      "meal": "Breakfast",
+      "foods": [
+        {
+          "name": "Oatmeal",
+          "quantity": "1 bowl"
+        },
+        {
+          "name": "Banana",
+          "quantity": "1"
+        },
+        {
+          "name": "Almond Milk",
+          "quantity": "1 cup"
+        }
+      ],
+      "notes": "Healthy and balanced breakfast to start the day.",
+      "userId": 12345
+    },
+    {
+      "id": 2,
+      "date": "2024-03-26",
+      "meal": "Lunch",
+      "foods": [
+        {
+          "name": "Grilled Chicken",
+          "quantity": "6 oz"
+        },
+        {
+          "name": "Brown Rice",
+          "quantity": "1 cup cooked"
+        },
+        {
+          "name": "Steamed Broccoli",
+          "quantity": "1 cup"
+        }
+      ],
+      "notes": "High-protein lunch for muscle recovery.",
+      "userId": 12345
+    },
+    {
+      "id": 3,
+      "date": "2024-03-27",
+      "meal": "Dinner",
+      "foods": [
+        {
+          "name": "Salmon",
+          "quantity": "5 oz"
+        },
+        {
+          "name": "Quinoa",
+          "quantity": "1/2 cup cooked"
+        },
+        {
+          "name": "Roasted Vegetables",
+          "quantity": "1 cup"
+        }
+      ],
+      "notes": "Omega-3 rich dinner for heart health.",
+      "userId": 12345
+    }
+  ]
+  

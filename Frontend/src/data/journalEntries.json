@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "date": "2024-03-25",
+      "title": "Reflections on the day",
+      "content": "Today was filled with challenges, but I managed to stay positive and productive.",
+      "userId": 12345
+    },
+    {
+      "id": 2,
+      "date": "2024-03-26",
+      "title": "Gratitude journal",
+      "content": "I'm grateful for the little things in life: a warm cup of coffee, a smile from a stranger.",
+      "userId": 12345
+    },
+    {
+      "id": 3,
+      "date": "2024-03-27",
+      "title": "Thoughts on the future",
+      "content": "Feeling excited about upcoming opportunities. It's time to set new goals and pursue my dreams.",
+      "userId": 12345
+    },
+    {
+      "id": 4,
+      "date": "2024-03-25",
+      "title": "Daily Reflections",
+      "content": "Spent the day in nature, feeling rejuvenated and inspired.",
+      "userId": 67890
+    },
+    {
+      "id": 5,
+      "date": "2024-03-26",
+      "title": "Mindful Moments",
+      "content": "Practiced mindfulness today and found peace in the present moment.",
+      "userId": 67890
+    }
+  ]
+  

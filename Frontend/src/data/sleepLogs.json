@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "date": "2024-03-25",
+      "startTime": "22:00",
+      "endTime": "06:00",
+      "duration_minutes": 480,
+      "quality": "Good",
+      "notes": "Slept soundly throughout the night.",
+      "userId": 12345
+    },
+    {
+      "id": 2,
+      "date": "2024-03-26",
+      "startTime": "23:30",
+      "endTime": "07:30",
+      "duration_minutes": 480,
+      "quality": "Fair",
+      "notes": "Woke up a couple of times, but overall slept well.",
+      "userId": 12345
+    },
+    {
+      "id": 3,
+      "date": "2024-03-27",
+      "startTime": "22:30",
+      "endTime": "05:30",
+      "duration_minutes": 420,
+      "quality": "Poor",
+      "notes": "Had trouble falling asleep due to stress.",
+      "userId": 12345
+    }
+  ]
+  

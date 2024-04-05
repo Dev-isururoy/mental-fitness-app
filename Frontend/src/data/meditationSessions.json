@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "date": "2024-03-26",
+      "duration_minutes": 30,
+      "technique": "Mindfulness meditation",
+      "notes": "Focused on breath awareness. Achieved deep relaxation.",
+      "userId": 12345
+    },
+    {
+      "id": 2,
+      "date": "2024-03-27",
+      "duration_minutes": 20,
+      "technique": "Loving-kindness meditation",
+      "notes": "Sent loving-kindness to myself and others. Felt peaceful afterward.",
+      "userId": 12345
+    },
+    {
+      "id": 3,
+      "date": "2024-03-28",
+      "duration_minutes": 25,
+      "technique": "Body scan meditation",
+      "notes": "Scanned through body sensations. Felt more aware of bodily tensions.",
+      "userId": 12345
+    },
+    {
+      "id": 4,
+      "date": "2024-03-26",
+      "duration_minutes": 15,
+      "technique": "Breath counting meditation",
+      "notes": "Counted breaths up to 10 and repeated. Mind wandered occasionally.",
+      "userId": 67890
+    },
+    {
+      "id": 5,
+      "date": "2024-03-27",
+      "duration_minutes": 25,
+      "technique": "Visualization meditation",
+      "notes": "Visualized a peaceful scene by the beach. Felt calm and refreshed afterward.",
+      "userId": 67890
+    }
+  ]
+  

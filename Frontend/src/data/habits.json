@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Exercise Daily",
+      "description": "Engage in at least 30 minutes of physical activity every day.",
+      "frequency": "Daily",
+      "userId": 12345
+    },
+    {
+      "id": 2,
+      "name": "Drink 8 Glasses of Water",
+      "description": "Stay hydrated by drinking at least 8 glasses of water daily.",
+      "frequency": "Daily",
+      "userId": 12345
+    },
+    {
+      "id": 3,
+      "name": "Read Before Bed",
+      "description": "Develop a habit of reading for 30 minutes before going to bed.",
+      "frequency": "Daily",
+      "userId": 12345
+    },
+    {
+      "id": 4,
+      "name": "Meditate",
+      "description": "Practice mindfulness meditation for 10 minutes each morning.",
+      "frequency": "Daily",
+      "userId": 67890
+    },
+    {
+      "id": 5,
+      "name": "Limit Screen Time",
+      "description": "Reduce screen time to less than 1 hour per day.",
+      "frequency": "Daily",
+      "userId": 67890
+    }
+  ]
+  

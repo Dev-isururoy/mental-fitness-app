@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "date": "2024-03-25",
+      "mood": "Happy",
+      "notes": "Had a great day with friends!",
+      "userId": 12345
+    },
+    {
+      "id": 2,
+      "date": "2024-03-26",
+      "mood": "Content",
+      "notes": "Work was stressful, but I managed to relax in the evening.",
+      "userId": 12345
+    },
+    {
+      "id": 3,
+      "date": "2024-03-27",
+      "mood": "Anxious",
+      "notes": "Feeling nervous about the upcoming presentation.",
+      "userId": 12345
+    },
+    {
+      "id": 4,
+      "date": "2024-03-25",
+      "mood": "Relaxed",
+      "notes": "Enjoyed a quiet evening at home.",
+      "userId": 67890
+    },
+    {
+      "id": 5,
+      "date": "2024-03-26",
+      "mood": "Stressed",
+      "notes": "Busy day at work, feeling overwhelmed.",
+      "userId": 67890
+    }
+  ]
+  

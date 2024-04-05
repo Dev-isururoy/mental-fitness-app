@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "date": "2024-03-25",
+      "duration_minutes": 45,
+      "type": "Strength Training",
+      "exercises": [
+        {
+          "name": "Deadlifts",
+          "sets": 3,
+          "reps": 8,
+          "weight": "100 lbs"
+        },
+        {
+          "name": "Bench Press",
+          "sets": 3,
+          "reps": 10,
+          "weight": "135 lbs"
+        },
+        {
+          "name": "Squats",
+          "sets": 3,
+          "reps": 8,
+          "weight": "120 lbs"
+        }
+      ],
+      "notes": "Felt strong and energized during the workout.",
+      "userId": 12345
+    },
+    {
+      "id": 2,
+      "date": "2024-03-26",
+      "duration_minutes": 30,
+      "type": "Cardio",
+      "exercises": [
+        {
+          "name": "Running",
+          "distance": "3 miles",
+          "time": "25 minutes"
+        },
+        {
+          "name": "Cycling",
+          "distance": "10 miles",
+          "time": "20 minutes"
+        }
+      ],
+      "notes": "Enjoyed a refreshing outdoor run followed by a quick cycling session.",
+      "userId": 12345
+    },
+    {
+      "id": 3,
+      "date": "2024-03-27",
+      "duration_minutes": 60,
+      "type": "Yoga",
+      "exercises": [
+        {
+          "name": "Sun Salutations",
+          "duration": "15 minutes"
+        },
+        {
+          "name": "Warrior Pose",
+          "duration": "10 minutes"
+        },
+        {
+          "name": "Downward Dog",
+          "duration": "5 minutes"
+        }
+      ],
+      "notes": "Relaxed and stretched my muscles with a calming yoga session.",
+      "userId": 12345
+    }
+  ]
+  
